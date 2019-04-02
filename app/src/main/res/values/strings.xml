@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My ApplicationLogin</string>
+
+    <array name = "countryList">
+        <item>India</item>
+        <item>China</item>
+        <item>Indonesia</item>
+        <item>Thailand</item>
+        <item>Romania</item>
+        <item>Canada</item>
+    </array>
+</resources>
